@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "imVfE38nMWiTXL7O043QwpA4W9T4mk5uIP0Dx1nyW57hvQLMvjjsiF0DsfgC4oRrM2XqN0tPdsVKQynVHf2koA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plast\\Desktop\\ImageInfo\\ImageInfo\\ImageInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plast\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\plast\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\plast\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
